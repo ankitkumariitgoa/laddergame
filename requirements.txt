@@ -2,3 +2,5 @@ matplotlib
 time 
 streamlit
 PIL
+random
+numpy
